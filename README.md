@@ -1,5 +1,5 @@
 # Brain Tumor Classification 🧠
-This project was developed as part of my Deep Learning mid exam. It was my first time working with image datasets, specifically brain MRI scans, to classify tumor types. The main focus is not only accuracy, but also recall, especially for malignant cases such as glioma.
+This project was developed as part of my Deep Learning mid exam. It was my first time working with image datasets, specifically brain MRI scans, to classify tumor types. This project uses AlexNet for the baseline and tuned model. The main focus is not only accuracy, but also recall, especially for malignant cases such as glioma.
 
 ## ✨ Project Overview  
 - **Goal**: Classify MRI brain images into four categories:  
