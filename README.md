@@ -28,7 +28,10 @@ This project was developed as part of my Deep Learning mid exam. It was my first
 - Expand dataset (especially on glioma cases)  
 - Class weight adjustments to handle class imbalance  
 - Data augmentation (brightness/contrast tuning for glioma images)  
-- Try other architectures (e.g., ResNet, EfficientNet) — limited GPU prevented full runs  
+- Try other architectures (e.g., ResNet, EfficientNet) — limited GPU prevented full runs
+
+## 🎥 Video Explanation
+Video explanation of the project can be seen [here](https://drive.google.com/file/d/1viyEEqzj7CHhtw7dsZWcozgsedI8tKbd/view?usp=drive_link)
 
 ## 📷 Example Results  
 <img width="721" height="539" alt="image" src="https://github.com/user-attachments/assets/3507c399-4183-4187-ad9b-bdd2c5a6d945" />
